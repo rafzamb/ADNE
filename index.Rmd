@@ -134,7 +134,7 @@ Se toman las categorías por defecto seleccionando las 3 principales categorías
 
 ## 🔸 Arquitectura 
 
-```{r, echo=FALSE, out.height= "60%", out.width= "60%", fig.align='center'}
+```{r, echo=FALSE, out.height= "70%", out.width= "70%", fig.align='center'}
 knitr::include_graphics('arquitectura.png')
 ```
 
